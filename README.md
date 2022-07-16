@@ -11,7 +11,7 @@ create a account ( or login )
 go to settings 
 go to API 
 copy the API Key (v3 auth) and
-add this it to the .env.local file 
+add it to the .env.local file 
  
 API_KEY=`paste the key here`
 </pre>
