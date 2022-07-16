@@ -14,7 +14,6 @@ copy the API Key (v3 auth) and paste it on
 add this line to .env.local
 
 API_KEY=`paste the key here`
-
 </pre>
 __
 <pre>
