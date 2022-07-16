@@ -48,8 +48,3 @@ yarn add tailwind-scrollbar-hide &&
 yarn add react-flip-move &&
 yarn run dev
 _______
-
-NextJS 
-Heroicons  
-Flexbox & CSS Grid 
-REST API ( tmdb )
