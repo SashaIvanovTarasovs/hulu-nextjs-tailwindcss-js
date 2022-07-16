@@ -14,9 +14,8 @@ copy the API Key (v3 auth) and paste it on
 add this line to .env.local
 </pre>
 
-<pre>.env.local 
-
-1 | API_KEY=`paste the key here`
+<pre>
+API_KEY=`paste the key here`
 
 example ( this is mine ) : 
 
@@ -29,7 +28,7 @@ run.
 yarn run dev 
 
 </pre>
-if a bug appear on the screen : 
+if a bug appear on the localhost : 
 
 _______
 <pre>
