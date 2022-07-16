@@ -16,13 +16,8 @@ add this it to the .env.local file
 API_KEY=`paste the key here`
 </pre>
 __
-<pre>
-run.
 
-yarn run dev 
-
-</pre>
-if a bug appear on the localhost : 
+In case to this : 
 <pre>
 _______
 
