@@ -1,27 +1,21 @@
 ___
-go to the website : 
-https://www.themoviedb.org/
-create a account ( or login )
-go to settings 
-go to API 
-copy the API Key (v3 auth)
 
 Create a 
 **.env.local**
 file in the project ( same hierarchy as package.json ) 
 
-add this line
-
-
-
-.env.local : 
+go to the website : 
+https://www.themoviedb.org/
+create a account ( or login )
+go to settings 
+go to API 
+copy the API Key (v3 auth) and paste it on 
+add this line to **.env.local**
 
 1 | API_KEY=`paste the key here`
 __
 
 example ( this is mine ) : 
-
-
 
 .env.local : 
 
@@ -37,7 +31,10 @@ __
 if a bug appear on the screen : 
 
 _______
-delete package-lock.json ( same hierarchy as package.json ) 
+
+delete.
+
+package-lock.json ( same hierarchy as package.json ) 
 
 run.
 
