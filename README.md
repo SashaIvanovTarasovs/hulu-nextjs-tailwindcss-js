@@ -29,7 +29,7 @@ yarn run dev
 
 </pre>
 if a bug appear on the localhost : 
-
+<pre>
 _______
 
 delete.
