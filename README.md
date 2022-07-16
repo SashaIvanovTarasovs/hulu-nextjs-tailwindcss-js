@@ -10,9 +10,9 @@ https://www.themoviedb.org/
 create a account ( or login ) 
 go to settings 
 go to API 
-copy the API Key (v3 auth) and paste it on
-add this line to .env.local
-
+copy the API Key (v3 auth) and
+add this it to the .env.local file 
+ 
 API_KEY=`paste the key here`
 </pre>
 __
