@@ -17,7 +17,6 @@ API_KEY=`paste the key here`
 </pre>
 __
 
-In case to this : 
 <pre>
 _______
 
