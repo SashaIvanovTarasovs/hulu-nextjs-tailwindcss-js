@@ -40,7 +40,9 @@ componants :
 2. Nav Bar ( TRENDING , TOP RATED, ACTION, COMEDY.. ) 
 3. Results ( THE FRAMEWORK OF THE CATALOG ) -> Thumbnail ( EACH MOVIES OF THE CATALOG ) 
 
-___ do it on the terminal of : hulu-nextjs-tailwindcss-js
+___
+
+do it on the terminal of : hulu-nextjs-tailwindcss-js
 
 yarn run dev 
 
