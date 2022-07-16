@@ -1,4 +1,4 @@
-___
+_______
 
 Create a 
 **.env.local**
@@ -15,7 +15,6 @@ add this it to the .env.local file
  
 API_KEY=`paste the key here`
 </pre>
-__
 
 <pre>
 _______
@@ -23,7 +22,7 @@ _______
 delete.
 
 package-lock.json ( same hierarchy as package.json ) 
-__
+
 
 run.
 
