@@ -49,10 +49,6 @@ do it on the terminal of : hulu-nextjs-tailwindcss-js
 __
 
 if a bug appear on the screen : 
-if a bug appear on the screen : 
-if a bug appear on the screen :
-if a bug appear on the screen : 
-if a bug appear on the screen : 
 
 _______
 delete package-lock.json ( same hierarchy as package.json ) 
