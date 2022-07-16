@@ -4,13 +4,15 @@ Create a
 **.env.local**
 file in the project ( same hierarchy as package.json ) 
 
-go to the website : &nbsp;
-https://www.themoviedb.org/ &nbsp;
-create a account ( or login ) &nbsp;
-go to settings &nbsp;
-go to API &nbsp;
-copy the API Key (v3 auth) and paste it on &nbsp;
-add this line to **.env.local** &nbsp;
+<pre>
+go to the website : 
+https://www.themoviedb.org/ 
+create a account ( or login ) 
+go to settings 
+go to API 
+copy the API Key (v3 auth) and paste it on
+add this line to **.env.local** 
+</pre>
 
 1 | API_KEY=`paste the key here`
 __
