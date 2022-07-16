@@ -15,7 +15,9 @@ add this line to .env.local
 </pre>
 
 <pre>.env.local 
+
 1 | API_KEY=`paste the key here`
+
 example ( this is mine ) : 
 
 API_KEY=43736a32101a8b2af103c32e2f7a4e90
