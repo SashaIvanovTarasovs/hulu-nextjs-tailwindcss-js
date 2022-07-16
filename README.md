@@ -1,8 +1,3 @@
-NextJS 
-Heroicons 
-Flexbox & CSS Grid 
-REST API ( tmdb )
-
 ___
 go to the website : 
 https://www.themoviedb.org/
@@ -62,3 +57,8 @@ yarn add tailwind-scrollbar-hide &&
 yarn add react-flip-move &&
 yarn run dev
 _______
+
+NextJS 
+Heroicons  
+Flexbox & CSS Grid 
+REST API ( tmdb )
