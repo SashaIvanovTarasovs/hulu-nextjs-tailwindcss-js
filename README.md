@@ -12,9 +12,7 @@ go to settings
 go to API 
 copy the API Key (v3 auth) and paste it on
 add this line to .env.local
-</pre>
 
-<pre>
 API_KEY=`paste the key here`
 
 example ( this is mine ) : 
