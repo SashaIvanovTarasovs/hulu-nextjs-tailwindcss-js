@@ -22,7 +22,7 @@ example ( this is mine ) :
 API_KEY=43736a32101a8b2af103c32e2f7a4e90
 </pre>
 __
-
+<pre>
 run.
 
 yarn run dev 
@@ -31,14 +31,14 @@ yarn run dev
 if a bug appear on the localhost : 
 
 _______
-<pre>
+
 delete.
 
 package-lock.json ( same hierarchy as package.json ) 
 __
 
 run.
-</pre>
+
 
 yarn add -D tailwindcss@latest postcss@latest autoprefixer@latest && 
 npx tailwindcss init -p && 
