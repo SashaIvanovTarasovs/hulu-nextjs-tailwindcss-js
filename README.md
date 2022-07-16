@@ -16,7 +16,7 @@ add this line to **.env.local**
 
 1 | API_KEY=`paste the key here`
 __
-
+<pre>
 example ( this is mine ) : 
 
 .env.local : 
@@ -29,7 +29,7 @@ run.
 yarn run dev 
 
 __
-
+</pre>
 if a bug appear on the screen : 
 
 _______
