@@ -42,7 +42,7 @@ componants :
 
 ___
 
-do it on the terminal of : hulu-nextjs-tailwindcss-js
+run.
 
 1. yarn run dev 
 
@@ -53,21 +53,12 @@ if a bug appear on the screen :
 _______
 delete package-lock.json ( same hierarchy as package.json ) 
 
-do these commands on the folder of the project
+run.
 
-1. npm install -D tailwindcss@latest postcss@latest autoprefixer@latest 
-OR
-yarn add -D tailwindcss@latest postcss@latest autoprefixer@latest 
-
-2. npx tailwindcss init -p
-
-3. install all packages to be sure that it will be able to work
-
-yarn add @heroicons/react 
-yarn add tailwind-scrollbar-hide 
-yarn add react-flip-move 
-
-4.
-
+yarn add -D tailwindcss@latest postcss@latest autoprefixer@latest && 
+npx tailwindcss init -p && 
+yarn add @heroicons/react && 
+yarn add tailwind-scrollbar-hide &&
+yarn add react-flip-move &&
 yarn run dev
 _______
