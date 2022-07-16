@@ -33,7 +33,7 @@ __
 if a bug appear on the screen : 
 
 _______
-
+<pre>
 delete.
 
 package-lock.json ( same hierarchy as package.json ) 
@@ -46,4 +46,5 @@ yarn add @heroicons/react &&
 yarn add tailwind-scrollbar-hide &&
 yarn add react-flip-move &&
 yarn run dev
+</pre>
 _______
