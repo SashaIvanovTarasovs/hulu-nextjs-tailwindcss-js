@@ -30,7 +30,7 @@ __
 
 run.
 
-1. yarn run dev 
+yarn run dev 
 
 __
 
