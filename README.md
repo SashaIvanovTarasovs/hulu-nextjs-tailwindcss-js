@@ -28,15 +28,6 @@ example ( this is mine ) :
 API_KEY=43736a32101a8b2af103c32e2f7a4e90
 __
 
-___
-
-componants : 
-1. Header ( LOGO AND FRAMEWORK OF THE ITEMS ) -> HeaderItem ( HOME, TRENDING, VERIFIED...  ) 
-2. Nav Bar ( TRENDING , TOP RATED, ACTION, COMEDY.. ) 
-3. Results ( THE FRAMEWORK OF THE CATALOG ) -> Thumbnail ( EACH MOVIES OF THE CATALOG ) 
-
-___
-
 run.
 
 1. yarn run dev 
